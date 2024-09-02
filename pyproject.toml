@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rl_mlx"
+version = "0.0.1"
+authors = [
+  { name="Zahi Kakish", email="zkakish@gmail.com" },
+]
+description = "A tutorial robot learning package using Mujoco and MLX"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: macOS",
+]
+dependencies = [
+    "mlx",
+    "mujoco",
+]

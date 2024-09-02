@@ -1,0 +1,6 @@
+Fri Dec 15 14:30:02 2023
+WARNING: mju_openResource: unknown file '/Users/zmk5/Developer/robot-learning/mujoco_menagerie/unitree-a1/a1.xml'
+
+Fri Dec 15 14:41:37 2023
+WARNING: mju_openResource: unknown file 'a1.xml'
+
